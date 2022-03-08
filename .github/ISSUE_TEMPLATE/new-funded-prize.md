@@ -11,6 +11,10 @@ assignees: ''
 
 Summarize the need for the prize and its output in 2-3 sentences.
 
+# Prize Amount
+
+List the prize amount and currency
+
 # Output
 
 Provide details on exactly what output is expected. Note that prize descriptions can only be modified by agreement of a DdS board member, and changes must be justified.
