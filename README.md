@@ -7,7 +7,4 @@ If you wish to claim a prize, please add a comment in the relevant issue. Please
 
 ## Current prizes
 
-| Title | Prize (€/CHF) | Reserved |
-| --- | --- | --- |
-| [New Brightway logo](https://github.com/Depart-de-Sentier/Prizes/issues/1) | 50 | Yes |
-| [New Brightway website technical plan](https://github.com/Depart-de-Sentier/Prizes/issues/2) | 150 | No |
+There are no current prizes. Feel free to fund a new one :)
