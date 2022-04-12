@@ -7,4 +7,7 @@ If you wish to claim a prize, please add a comment in the relevant issue. Please
 
 ## Current prizes
 
-There are no current prizes. Feel free to fund a new one :)
+| Title | Prize (€/CHF) | Reserved |
+| --- | --- | --- |
+| [Brightway webpage template and design guideline](https://github.com/Depart-de-Sentier/Prizes/issues/3) | 100 | No |
+| [Script to check for dead links](https://github.com/Depart-de-Sentier/Prizes/issues/4) | 25 | No |
