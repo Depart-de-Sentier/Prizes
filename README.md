@@ -9,6 +9,6 @@ If you wish to claim a prize, please add a comment in the relevant issue. Please
 
 | Title | Prize (€/CHF) | Reserved |
 | --- | --- | --- |
-| [Départ de Sentier logo](https://github.com/Depart-de-Sentier/Prizes/issues/5) | 100 | No |
+| [Départ de Sentier logo](https://github.com/Depart-de-Sentier/Prizes/issues/5) | 100 | Yes |
 | [Brightway webpage template and design guideline](https://github.com/Depart-de-Sentier/Prizes/issues/3) | 100 | No |
 | [Script to check for dead links](https://github.com/Depart-de-Sentier/Prizes/issues/4) | 25 | No |
